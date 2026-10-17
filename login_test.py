@@ -6,3 +6,5 @@ def test_login(username, password):
 
 print(test_login("student1", "pass123"))
 print(test_login("student1", "wrong123"))
+
+print(test_login("", ""))
