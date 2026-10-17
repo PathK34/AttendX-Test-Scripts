@@ -16,3 +16,6 @@ student attendance application.
 ## Purpose
 To maintain test scripts, track modifications, and collaborate
 using version control.
+
+
+Maintained using Git and GitHub
